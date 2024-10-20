@@ -1,4 +1,4 @@
-<h1 align="center">Load Balancer Implementation: Round-Robin & Least Connections</h1>
+##Load Balancer Implementation: Round-Robin & Least Connections
 Overview
 This repository contains an implementation of a Load Balancer that supports two common algorithms: Round-Robin and Least Connections. A load balancer distributes incoming traffic across multiple servers, ensuring no single server gets overwhelmed, which improves the availability, reliability, and performance of the system.
 
