@@ -30,13 +30,13 @@ Server C: 4 connections
 The next request will be routed to Server B as it has the fewest active connections.
 
 Installation:
-```
+```sh
 npm init 
 npm install http http-proxy 
 ```
 
 open 3 terminal and run commands :
-```
+```sh
 nodemon .\backendServers.js
 nodemon .\server.js  
 . .\test_load_balancer.sh
